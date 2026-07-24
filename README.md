@@ -1,6 +1,6 @@
 Overview
 ========
-This project includes extreme gradient boosting (XGBoost), multiple linear regression (MLR), logistic regression (LogR) and enhanced annual temperature cycle (EATC) for river water temperature reconstruction.
+This project includes extreme gradient boosting (XGBoost), multiple linear regression (MLR), logistic regression (LogR) and enhanced annual temperature cycle (EATC) for river water temperature reconstruction. In addition, a demo version of the training and prediction data for the XGBoost.py is also provided for reference.
 
 References
 ========
